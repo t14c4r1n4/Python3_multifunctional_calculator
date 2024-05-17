@@ -5,4 +5,6 @@ Welcome to our project, a multifunctional calculator that calculate functions, t
 How to start the program? 
 **_main.py is the main project, with includes the modules.**
 
+It's command line only. 
+
 
